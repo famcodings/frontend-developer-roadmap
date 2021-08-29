@@ -38,3 +38,7 @@ The five most popular JavaScript frameworks are Node.js, React, Vue.js, AngularJ
 	- Check the docs [here](https://v3.vuejs.org/guide/introduction.html) (try to refer to these docs even when watching tutorials)
 	- Watch the [introduction tutorial](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/)
 	- Learn about Nuxt [here](https://nuxtjs.org/docs/2.x/get-started/installation)  and watch the introductory videos [here](https://vueschool.io/lessons/what-is-nuxtjs).
+
+
+---
+<small>This roadmap is inspired by [roadmap.sh](https://roadmap.sh/frontend).</small>
