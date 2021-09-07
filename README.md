@@ -24,7 +24,7 @@ NPM and Yarn, both are fine, pick one or learn both, there is not much differenc
 - Learn about  Yarn [here](https://www.youtube.com/watch?v=7n467QmiANM).
 
 ### 5. Learn about Build Tools
-Learn and get the basic idea of  [Webpack](https://www.youtube.com/watch?v=TzdEpgONurw) and [NPM Scripts](https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/).
+Learn and get the basic idea of  [Webpack](https://www.youtube.com/watch?v=MpGLUVbqoYQ) and [NPM Scripts](https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/).
 
 ### 6. Pick a Framework
 The five most popular JavaScript frameworks are Node.js, React, Vue.js, AngularJS, and Ember.js. We'll be focusing on two of them only.
